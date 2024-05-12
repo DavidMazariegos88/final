@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escuela Oficial Urbana Mixta</title>
+    </style>
+    <link rel="stylesheet" href="style.css">
+        <!--Estilos CSS aquí-->
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Escuela Oficial Urbana Mixta</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Acerca de</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="nosotros">
+            <h2>Nuestra Escuela</h2>
+            <p>Breve descripción de la escuela y su misión.</p>
+        </section>
+
+        <section id="cursos">
+            <h2>Nuestros Cursos</h2>
+            <ul>
+                <li>1º Grado</li>
+                <li>2º Grado</li>
+                <li>3º Grado</li>
+                <li>4º Grado</li>
+                <li>5º Grado</li>
+                <li>6º Grado</li>
+                <!-- Añade más grados según sea necesario -->
+            </ul>
+        </section>
+
+        <section id="personal">
+            <h2>Nuestro Personal</h2>
+            <ul>
+                <li>Directora: David Quintanilla</li>
+                <li>Maestros:</li>
+                <ul>
+                    <li>Maria Monterroso</li>
+                    <li>Joaquin Palma</li>
+                    <li>Miguel Garcia</li>
+                    <li>Adriana Cifuentes</li>
+                    <li>Hazzel Polanco</li>
+                    <li>Rocio Valverde</li>
+                    <!-- Añade más maestros según sea necesario -->
+                </ul>
+            </ul>
+        </section>
+
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <ul>
+                <li>PBX: 2338-8900</li>
+                <li>Whatsapp: 3333-6666</li>
+            </ul>
+            <p>Información de contacto de la escuela.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Derechos de autor © 2024 Escuela Primaria. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
